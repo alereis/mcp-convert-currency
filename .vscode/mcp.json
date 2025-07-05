@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "mcp-convert-currency": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+                "-y",
+                "tsx",
+                "/Users/alessandroreis/Documents/AI Projects/mcp-convert-currency/main.ts"
+            ]
+        }
+    }
+}
